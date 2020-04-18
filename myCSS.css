@@ -1,0 +1,10 @@
+
+#dorothyProfileImage{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: url(image/Dorothy.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 30%;
+}
